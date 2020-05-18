@@ -1,9 +1,15 @@
-Korzystając z narzędzia NetCat utwórz folder ze swoim imieniem i nazwiskiem na serwerze ftp pod adresem kretes.xyz
-Potrzebne komendy znajdziesz pod adresem https://en.wikipedia.org/wiki/List_of_FTP_commands
+Korzystając z narzędzia NetCat utwórz folder ze swoim imieniem i nazwiskiem na serwerze ftp pod adresem kretes.xyz 
+
+Przykład: Jan Kowalski tworzy uczestnicy/jkowalski
+
+Potrzebne komendy FTP znajdziesz pod adresem: 
+https://en.wikipedia.org/wiki/List_of_FTP_commands
+
 Składnia komend FTP wygląda następująco:
 <komenda duzymi literami> <opcja do komendy>
 
 Do logowania wykorzystaj użytkownika: anonymous, hasło: anonymous
 Utwórz katalog /uczestnicy/twoje_imie_nazwisko
 
-Jan kowalski stworzy swój katalog /uczestnicy/jkowalski
+Podpowiedź:
+Do wykonania tego zadania potrzebujesz jedynie trzech komend
