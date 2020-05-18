@@ -4,3 +4,6 @@ Składnia komend FTP wygląda następująco:
 <komenda duzymi literami> <opcja do komendy>
 
 Do logowania wykorzystaj użytkownika: anonymous, hasło: anonymous
+Utwórz katalog /uczestnicy/twoje_imie_nazwisko
+
+Jan kowalski stworzy swój katalog /uczestnicy/jkowalski
