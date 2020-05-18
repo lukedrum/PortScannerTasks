@@ -1,0 +1,5 @@
+Napisz skrypt w pythonie ktory znajdzie 4 uslugi ftp dzialajace na serwerze
+kretes.xyz gdzies pomiedzy portami 55000-57000
+
+Podpowiedz: przed odebraniem jakiejkolwiek komendy serwer FTP wysyla baner do klienta,
+wiec moze warto zaczac od .recv()?
