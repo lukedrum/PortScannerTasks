@@ -1,0 +1,6 @@
+Korzystając z narzędzia NetCat utwórz folder ze swoim imieniem i nazwiskiem na serwerze ftp pod adresem kretes.xyz
+Potrzebne komendy znajdziesz pod adresem https://en.wikipedia.org/wiki/List_of_FTP_commands
+Składnia komend FTP wygląda następująco:
+<komenda duzymi literami> <opcja do komendy>
+
+Do logowania wykorzystaj użytkownika: anonymous, hasło: anonymous
